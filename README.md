@@ -1,7 +1,7 @@
 # Bugs-Should-Be-Erased
 ![Preview image](./preview/preview.jpg)
 
-Bugs Should Be Erased is a game project I made with a friend. It's a roguelike game with a simple plot: you're a broken program that's been move into the recycler bin and you have 30 days to get out of it before it deletes you out forever.
+Bugs Should Be Erased is a game project I made with a friend. It's a roguelike game with a simple plot : you're a broken program that's been move into the recycler bin and you have 30 days to get out of it before it deletes you out forever.
 ## Features
 - The game
 - Possibility to setup display options
